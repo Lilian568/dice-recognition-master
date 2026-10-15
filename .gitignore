@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# YOLO cache files (regenerated automatically)
+*.cache
+
+# PyCharm personal settings
+.idea/workspace.xml
